@@ -10,4 +10,3 @@ class Book:
 
 class BookNotAvailable(Exception):
     pass
-
